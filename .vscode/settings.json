@@ -1,0 +1,32 @@
+{
+    "C_Cpp.default.compileCommands": "${workspaceFolder}/cmake-build-relwithdebinfo/compile_commands.json",
+    "C_Cpp.default.compilerPath": "/usr/bin/g++",
+    "C_Cpp.default.cStandard": "c17",
+    "C_Cpp.default.cppStandard": "c++17",
+    "C_Cpp.default.intelliSenseMode": "linux-gcc-x64",
+    "C_Cpp.intelliSenseEngine": "default",
+    "C_Cpp.autocomplete": "default",
+    "C_Cpp.errorSquiggles": "enabled",
+    "C_Cpp.workspaceParsingPriority": "high",
+    "C_Cpp.workspaceSymbols": "All",
+    "C_Cpp.files.exclude": {
+        "**/.git": true,
+        "**/cmake-build-*/CMakeFiles": true,
+        "**/external/amgcl/.git": true,
+        "**/external/amgcl/build": true,
+        "**/python_script/__pycache__": true
+    },
+    "files.associations": {
+        "*.cu": "cuda-cpp",
+        "*.cuh": "cuda-cpp",
+        "*.h": "cpp",
+        "*.hpp": "cpp",
+        "*.tpp": "cpp"
+    },
+    "search.exclude": {
+        "**/cmake-build-*/CMakeFiles": true,
+        "**/external/amgcl/.git": true,
+        "**/external/amgcl/build": true,
+        "**/python_script/__pycache__": true
+    }
+}

@@ -1,0 +1,10 @@
+build/
+cmake-build-relwithdebinfo/
+.idea/
+.vscode/*.vc.db*
+.vscode/ipch/
+external/
+outputs/
+ugrids/
+experiments/
+execopy/
