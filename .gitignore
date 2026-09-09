@@ -8,3 +8,5 @@ outputs/
 ugrids/
 experiments/
 execopy/
+.vscode/
+.agents/
